@@ -12,6 +12,7 @@
 
     <record id="mgmtsystem.menu_mgmtsystem_root" model="ir.ui.menu">
         <field name="parent_id" ref="iatf.iatf_menu_root"/>
+        <field name="sequence">8</field>
     </record>
     
 </odoo>
